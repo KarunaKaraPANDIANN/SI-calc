@@ -1,0 +1,8 @@
+{
+  "appId": "com.finance.app",
+  "appName": "finance_mangementz",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
